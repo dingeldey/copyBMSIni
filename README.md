@@ -99,3 +99,8 @@ pyinstaller --clean --onefile --noconsole copyBMSIni.py
 ```
 
 ---
+
+
+## Load INI in BMS
+
+In `Falcon BMS` go to datacartridge and select load. All `STPTs`, `Lines` and `Preplanned Threat STPTs` should appear.
